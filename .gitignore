@@ -65,7 +65,6 @@ docker-compose.local.yml
 #*.azcli
 
 # compiled output
-/dist
 /tmp
 /out-tsc
 /server/www
