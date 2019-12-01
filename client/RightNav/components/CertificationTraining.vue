@@ -33,7 +33,7 @@ export default class CertificationTraining extends Vue {
 </script>
 <style lang="scss" scoped>
 .certification-training {
-  margin: 50px 20px;
+  margin: 30px 20px;
 
   .list {
     margin: 20px 10px;

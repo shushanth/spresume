@@ -1,5 +1,5 @@
 <template>
-    <span class="title">{{skill}}</span>
+    <span class="title">{{skill}} <span v-if="experience" class="years">{{experience}}</span></span>
 </template>
 
 <script lang="ts">
@@ -9,6 +9,9 @@ import { Component, Prop } from 'vue-property-decorator';
 export default class SkillView extends Vue {
   @Prop({default: ''})
   skill: string;
+
+  @Prop({default: ''})
+  experience: string;
 }
 </script>
 <style lang="scss" scoped>
@@ -21,5 +24,16 @@ export default class SkillView extends Vue {
     border-radius: 5px;
     font-weight: 400;
     background: $pf-orange-pink-clay;
+  }
+  .years {
+    display: inline-block;
+    font-size: 9px;
+    color: $pf-dark-voilet-black;
+    color: #081B33;
+    padding: 4px;
+    border-radius: 50%;
+    border: 1px solid;
+    border-color: #000;
+    border-style: dotted;
   }
 </style>

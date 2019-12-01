@@ -93,7 +93,7 @@ export default class RightNav extends Vue {
   }
 
   .declaration {
-        margin: 50px 20px;
+    margin: 20px;
     width: calc(100% - 100px);
 
     .heading {

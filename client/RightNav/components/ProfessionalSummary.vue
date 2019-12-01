@@ -8,7 +8,7 @@
                     Senior Software professional with 7+ years of experience in anyalsis, design, developing, mentoring various web applications.
                 </li>
                 <li>
-                    Extensive experience in developing professional UI web applications using front-end technologies like HTML(HTML5), CSS (CSS3), JavaScript, Angular, React JS, React-native, Vue, ES5, ES6, ES7, ESNext.
+                    Extensive experience in developing professional UI web applications using front-end technologies like HTML(HTML5), CSS (CSS3), JavaScript, Angular, React JS, Redux, React-native, Vue, ES5, ES6, ES7, ESNext.
                 </li>
                 <li>Experience in Cross-Platform Mobile Development using React Native, Flutter based mobile apps.</li>
                 <li>
