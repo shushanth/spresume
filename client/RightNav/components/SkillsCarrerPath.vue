@@ -183,7 +183,7 @@
       </div>
 
       <div class="each-experience">
-        <HorizontalLine from="Jul 2015" to="Sept 2016" lineHeight="245">
+        <HorizontalLine from="Sept 2013" to="May 2015" lineHeight="245">
           <div class="exp-content">
             <span class="company">Avaya,</span>
             <span class="place">(Bengaluru, India)</span>
@@ -226,7 +226,7 @@
       </div>
 
       <div class="each-experience">
-        <HorizontalLine from="Jul 2015" to="Sept 2016" lineHeight="225">
+        <HorizontalLine from="Jul 2011" to="Jun 2013" lineHeight="225">
           <div class="exp-content">
             <span class="company">TCS / Cisco,</span>
             <span class="place">(Bengaluru, India)</span>
