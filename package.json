@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "concurrently \"yarn run build\" \"yarn run start\" ",
     "build": "webpack --progress --hide-modules",
-    "start": "node ./server/index.js"
+    "start": "node ./server/index.js",
+    "log": "heroku logs --tail"
   },
   "repository": "https://github.com/shushanth/spresume.git",
   "dependencies": {

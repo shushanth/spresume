@@ -41,6 +41,7 @@
       <SkillView skill="AWS" experience="2Y"></SkillView>
       <SkillView skill="EC2" experience="2Y"></SkillView>
       <SkillView skill="Jenkins" experience="2Y"></SkillView>
+      <SkillView skill="Nginx"></SkillView>
       <SkillView skill="OOP"></SkillView>
       <SkillView skill="REST"></SkillView>
       <SkillView skill="Microservices"></SkillView>
