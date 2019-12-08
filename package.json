@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "concurrently \"yarn run build\" \"yarn run start\" ",
     "build": "webpack --progress --hide-modules",
-    "start": "node index.js"
+    "start": "node ./server/index.js"
   },
   "repository": "https://github.com/shushanth/spresume.git",
   "dependencies": {
@@ -16,6 +16,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.8",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
+    "ipware": "^2.0.0",
     "vue": "^2.3.4",
     "vue-class-component": "^6.1.0",
     "vue-property-decorator": "^6.0.0"
