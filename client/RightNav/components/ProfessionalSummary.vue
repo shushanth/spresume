@@ -12,7 +12,7 @@
                 </li>
                 <li>Experience in Cross-Platform Mobile Development using React Native, Flutter based mobile apps.</li>
                 <li>
-                    Experienced in devloping full stack applications and developed higly scalable backend services using nodeJS, expressJS including API and services development. 
+                    Experienced in devloping full stack applications and developed higly scalable backend services and internal tool for the organisation using nodeJS, expressJS and nosql databases. 
                 </li>
                 <li>
                     Built and deployed Docker containers to break up monolithic app into microservices, improving developer workflow, increasing scalability, and optimizing speed.
