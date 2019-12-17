@@ -13,8 +13,8 @@
       <SkillView skill="SASS(scss)" experience="5Y"></SkillView>
       <SkillView skill="Typescript" experience="3Y"></SkillView>
       <SkillView skill="NodeJS" experience="4Y"></SkillView>
-      <SkillView skill="Java" experience="2Y"></SkillView>
-      <SkillView skill="Spring-mvc" experience="2Y"></SkillView>
+      <SkillView skill="Java" experience="1Y"></SkillView>
+      <SkillView skill="Spring-mvc" experience="1Y"></SkillView>
       <SkillView skill="expressJS" experience="3Y"></SkillView>
       <SkillView skill="Angular" experience="5Y"></SkillView>
       <SkillView skill="React" experience="5Y"></SkillView>
