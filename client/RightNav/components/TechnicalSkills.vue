@@ -18,22 +18,22 @@
       <SkillView skill="expressJS" experience="3Y"></SkillView>
       <SkillView skill="Angular" experience="5Y"></SkillView>
       <SkillView skill="React" experience="5Y"></SkillView>
-      <SkillView skill="Vue" experience="1Y"></SkillView>
+      <SkillView skill="Vue" experience="6M"></SkillView>
       <SkillView skill="Redux" experience="4Y"></SkillView>
       <SkillView skill="React-native" experience="2Y"></SkillView>
       <SkillView skill="Flutter" experience="6M"></SkillView>
-      <SkillView skill="Jasmine" experience="5Y"></SkillView>
-      <SkillView skill="Jest" experience="3Y"></SkillView>
-      <SkillView skill="Karma" experience="4Y"></SkillView>
       <SkillView skill="D3" experience="2Y"></SkillView>
       <SkillView skill="Rxjs" experience="3Y"></SkillView>
       <SkillView skill="Redux-observables" experience="3Y"></SkillView>
       <SkillView skill="mongodb" experience="3Y"></SkillView>
+      <SkillView skill="Jasmine" experience="5Y"></SkillView>
+      <SkillView skill="Jest" experience="3Y"></SkillView>
+      <SkillView skill="Karma" experience="4Y"></SkillView>
       <SkillView skill="GraphQl" experience="6M"></SkillView>
-      <SkillView skill="Git" experience="4Y"></SkillView>
-      <SkillView skill="Gitlab" experience="2Y"></SkillView>
       <SkillView skill="Webpack" experience="4Y"></SkillView>
       <SkillView skill="Rollup" experience="1Y"></SkillView>
+      <SkillView skill="Git" experience="4Y"></SkillView>
+      <SkillView skill="Gitlab" experience="2Y"></SkillView>
       <SkillView skill="Npm" experience="6Y"></SkillView>
       <SkillView skill="Yarn" experience="4Y"></SkillView>
       <SkillView skill="grunt" experience="3Y"></SkillView>
